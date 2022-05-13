@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MenuDespegable</string>
+    <string name="navigation_drawer_open">Abrir Navegación</string>
+    <string name="navigation_drawer_close">Cerrar Navegación</string>
+    <string name="menu_camara">Cámara</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_manage">Manage</string>
+    <string name="menu_grupo">Group</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="home_fragment">Home</string>
+    <string name="camara_fragment">Camara</string>
+    <string name="galeria_fragment">Galeria</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name">"Nombre: "</string>
+
+</resources>
